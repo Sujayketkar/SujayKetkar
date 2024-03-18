@@ -19,9 +19,7 @@
 
 - ⚡About me **I’ve spent 14 years as a Recruiter and HR Manager in a variety of settings which has allowed me to see the Software Product, Services and HR world first hand. In my experience within Human Resources, I've utilized data to establish benchmarks for compensation, salary trends, offer ranges, and workforce requirements. Proficiency in data analysis has enabled me to establish equitable yet competitive pay structures. I've leveraged data to determine appropriate salary ranges. In a previous role, I analyzed three years of historical employee leave data and proposed revisions to the leave policy, which received positive feedback and recognition.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/in/sujayketkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/sujayketkar" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

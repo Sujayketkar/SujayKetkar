@@ -6,7 +6,7 @@
 - ✏️ my skills are **SQL, PowerBI, Pandas, MS Excel**
 
 - ⚙️My primary skill is SQL and i keep on working on various datasets, here is another interesting one [Social media activity](https://github.com/Sujayketkar/Employee-Social-Media-Activity-Dataset)
-- - 💬 but i'm great at **asking the right questions, Collaboration, negotiation, critical trhinking**
+- 💬 but i'm great at **asking the right questions, Collaboration, negotiation, critical trhinking**
 
 - ✓ I’m currently learning Pandas and Python and PowerBI. here is a link to my Power BI project [HR Analytics](https://github.com/Sujayketkar/HR-Analytics-Dashboard_PowerBI/blob/main/HR_Analytics_dashboard.pdf)
 

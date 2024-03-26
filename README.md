@@ -17,7 +17,9 @@
 - 📄 Know about my experiences https://www.linkedin.com/in/sujayketkar
 
 
-- ⚡About me **I’ve spent 14 years as a Recruiter and HR Manager in a variety of settings which has allowed me to see the Software Product, Services and HR world first hand. In my experience within Human Resources, I've utilized data to establish benchmarks for compensation, salary trends, offer ranges, and workforce requirements. Proficiency in data analysis has enabled me to establish equitable yet competitive pay structures. 
+- ⚡About me **With over 14 years of immersive experience as both a Recruiter and HR Manager across diverse industries, I've gained invaluable insights into the intricate dynamics of the Software Product, Services, and HR domains. Throughout my tenure in Human Resources, I've leveraged data-driven methodologies to meticulously craft benchmarks for compensation, dissect salary trends, delineate offer ranges, and delineate workforce prerequisites.
+
+My proficiency in data analysis has not only empowered me to discern and adapt to market fluctuations but has also facilitated the establishment of equitable yet compelling pay frameworks. By synthesizing intricate data sets, I've been able to ascertain the delicate balance between competitiveness and fairness, ensuring that organizations remain attractive to top talent while fostering  pay equity and satisfaction. 
 
 
 </p>

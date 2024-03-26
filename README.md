@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sujay</h1>
 <h3 align="center">curious and passionate about people and data.</h3>
 
-- 🔭 I’m currently working on- [TA offers Analytics, My own real world type dummy data](https://github.com/Sujayketkar/TA_Offers_Analytics)
+- 🔭 strong passion for Data and a keen interest in staying abreast of technology trends. I possess the ability to uncover insights in overlooked corners. 
 
 - ✏️ my skills are **SQL, PowerBI, Pandas, MS Excel**
 
